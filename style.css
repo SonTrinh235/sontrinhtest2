@@ -42,6 +42,16 @@ body {
     border-radius: 5px;
     cursor: pointer;
 }
+.return{
+    font-size: 5em;
+    padding: 40px 30px;
+    justify-content: center;
+    background-color: #14cbef;
+    color: white;
+    border: 5px solid #000000;
+    border-radius: 5px;
+    cursor: pointer;
+}
 .left{
     font-size: 7em;
     padding: 60px 60px;
