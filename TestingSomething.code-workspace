@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/Will-you-be-my-Valentine--main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TestingSomething"
+	}
+}
